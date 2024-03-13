@@ -14,7 +14,7 @@
 
 ## :toolbox:Installation
 
-To install "Daily Intangible Heritage," make sure your device meets the following requirements:
+To install "Dear Birthmark", make sure your device meets the following requirements:
 
 - iOS 17.0 or later.
 - macOS 14.0 or later
@@ -36,12 +36,9 @@ We welcome contributions that can help improve "Dear Birthmark." If you'd like t
 2. Create a new branch (`git checkout -b feature/CoolFeature`).
 3. Commit your changes (`git commit -m 'Add some CoolFeature'`).
 4. Push to the branch (`git push origin feature/CoolFeature`).
-5. Open a Pull Request.
+5. Open a Pull Request in GitHub.
 
 ## 🙏 Acknowledgments
 
 - Thank you to everyone who has shared their stories and embraced their uniqueness.
 - A special thanks to the artists, developers, and designers who have contributed to making "Dear Birthmark" a source of joy and self-love.
-
-## 🧩 Video
-- https://www.youtube.com/watch?v=NPEdRLks0FM
